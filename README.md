@@ -11,5 +11,6 @@ Prueba - Blog para el [**curso profesional de Git y GitHub**](https://platzi.com
 * Buenas prácticas.
 * Algunos trucos para una mejor forma de trabajo.
 * Cómo trabajar en equipo.
+* Creado como ejemplo para el curso.
 
 Y como recordatorio **este README.md es una prueba de ello :)**, diseñado como ejemplo para el [**curso**](https://platzi.com/cursos/git-github/ "curso").
